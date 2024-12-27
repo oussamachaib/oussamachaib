@@ -1,6 +1,7 @@
 ## Hi there, I'm Oussama 👋
 ---
-#### PhD candidate at the [University of Cambridge](https://www.eng.cam.ac.uk/) (Department of Engineering)
+#### Currently: PhD candidate at the [University of Cambridge](https://www.eng.cam.ac.uk/) (Department of Engineering)
+##### *Formerly: Data Scientist (Prysmian), R&D Engineer (Air Liquide)*
 
 - 🧑‍🔬 I develop models and algorithms to derive insights from image and time series data from gas turbine engines.
 - 🌷 I'm currently working on `tulip`, an unsupervised feature learning tool for periodic time series data in `Python`.
