@@ -4,7 +4,7 @@
 ##### *Formerly: Data Scientist (Prysmian), R&D Engineer (Air Liquide)*
 
 - 🧑‍🔬 I develop models and algorithms to derive insights from image and time series data from gas turbine engines.
-- 🌷 I'm currently working on `tulip`, an unsupervised feature learning tool for periodic time series data in `Python`.
+- 🌷 I'm currently developing `tulip`, an unsupervised feature learning tool for periodic time series data in `Python`.
 - 🌌 My interests encompass data sciences in all aspects (computer vision, interpretable ML, data visualization, storytelling with data), and particularly applications in fluid mechanics.
 - 🌱 Currently learning about: Variational Autoencoders, Diffusion models.
 - 🧑‍💻 Proficient in `.py`, `.c`, `.cpp`, `.html`, `.css`, `.m`, `.sql`
